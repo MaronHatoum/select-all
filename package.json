@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mongodb": "^3.7.1",
+    "mongodb": "^4.6.0",
     "six": "^0.0.10",
     "webpack":"^5.73.0"
   }
